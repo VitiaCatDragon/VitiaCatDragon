@@ -1,4 +1,7 @@
-### Hi there 👋
+### Привет?
+- 💾 Люблю C#
+- 🐈 Люблю котиков (они же правда миилые)
+- 🧇 Есть дискорд сервер где правит вафля
 
 <!--
 **VitiaCatDragon/VitiaCatDragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
